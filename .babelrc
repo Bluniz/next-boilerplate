@@ -6,7 +6,8 @@
     {
       "ssr": true
     }
-    ]
+    ],
+    ["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
   ],
   "presets": ["next/babel", "@babel/preset-typescript"]
 
